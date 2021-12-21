@@ -1,0 +1,14 @@
+.board{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.tiles{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width:70px;
+}
